@@ -1,5 +1,5 @@
 // Author: Daniel Acevedo
-// GitHub:
+// GitHub: https://github.com/dacevedo11/for_loops_lecture.git
 // September 29,2020
 // CSIS 113A
 #include <iostream>
