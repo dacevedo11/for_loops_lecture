@@ -1,3 +1,7 @@
+// Author: Daniel Acevedo
+// GitHub:
+// September 29,2020
+// CSIS 113A
 #include <iostream>
 #include <iomanip>
 # include <string>
